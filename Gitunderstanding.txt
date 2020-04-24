@@ -1,0 +1,3 @@
+This is git command list
+git init (in the directory you need to add to git repo)
+Good link to understand got commands are: https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
