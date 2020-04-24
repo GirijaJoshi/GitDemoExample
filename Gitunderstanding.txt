@@ -1,3 +1,18 @@
 This is git command list
 git init (in the directory you need to add to git repo)
 Good link to understand got commands are: https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+1) git config --global user.name "Girija Joshi"
+2) git config --global user.email "girija_aj@yahoo.com"
+3) To the new directory you need to add to Git repo you already created use git init
+4) git init (will create new local repo)
+5) git clone /path/to/repo (checkout repo)
+6) git cone username@host:/path/tp/repo
+7) git add <filename> to add specified file
+8) git add * (to add all)
+9) git commit -m "Commit message" (commit changes to head)
+10) git commit -a (commit any files you have added with git)
+11) git push origin master (save changes to master branch of your remote)
+12) git status (list files status which have commited or changed)
+13) git remote add origin <server> (if haven't connected your local repo to remote server to be able to push)
+14) git remote -v (list all currently configured remote repos)
+
