@@ -15,4 +15,4 @@ Good link to understand got commands are: https://confluence.atlassian.com/bitbu
 12) git status (list files status which have commited or changed)
 13) git remote add origin <server> (if haven't connected your local repo to remote server to be able to push)
 14) git remote -v (list all currently configured remote repos)
-
+15) git checkout -b <branchname> (create new branch and switch to it)
